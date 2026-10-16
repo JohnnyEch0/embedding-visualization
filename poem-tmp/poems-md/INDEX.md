@@ -1,0 +1,35 @@
+- [The Hollow Men](poems-md/hollow-men.md) — T. S. Eliot (1925)
+- [Do Not Go Gentle into That Good Night](poems-md/do-not-go-gentle-good-night.md) — Dylan Thomas (1947)
+- [One Art](poems-md/one-art.md) — Elizabeth Bishop (1976)
+- [Still I Rise](poems-md/still-i-rise.md) — Maya Angelou (1978)
+- [Lady Lazarus](poems-md/lady-lazarus.md) — Sylvia Plath (1962)
+- [September 1, 1939](poems-md/september-1-1939.md) — W. H. Auden (1939)
+- [Howl](poems-md/howl.md) — Allen Ginsberg (1956)
+- [Having a Coke with You](poems-md/having-coke-you.md) — Frank O'Hara (1960)
+- [I, Too](poems-md/i-too.md) — Langston Hughes (1926)
+- [Harlem](poems-md/harlem.md) — Langston Hughes (1951)
+- [We Real Cool](poems-md/we-real-cool.md) — Gwendolyn Brooks (1959)
+- [My Papa's Waltz](poems-md/my-papas-waltz.md) — Theodore Roethke (1942)
+- The Waking — Theodore Roethke (1953) — **FAILED to fetch**
+- [Fern Hill](poems-md/fern-hill.md) — Dylan Thomas (1945)
+- Aunt Jennifer's Tigers — Adrienne Rich (1951) — **FAILED to fetch**
+- This Is Just to Say — William Carlos Williams (1934) — **FAILED to fetch**
+- The Red Wheelbarrow — William Carlos Williams (1923) — **FAILED to fetch**
+- [Mirror](poems-md/mirror.md) — Sylvia Plath (1962)
+- Metaphors — Sylvia Plath (1959) — **FAILED to fetch**
+- You're — Sylvia Plath (1960) — **FAILED to fetch**
+- [Morning Song](poems-md/morning-song.md) — Sylvia Plath (1961)
+- The Disquieting Muses — Sylvia Plath (1957) — **FAILED to fetch**
+- The Negro Speaks of Rivers — Langston Hughes (1921) — **FAILED to fetch**
+- Phenomenal Woman — Maya Angelou (1978) — **FAILED to fetch**
+- Digging — Seamus Heaney (1966) — **FAILED to fetch**
+- Mother to Son — Langston Hughes (1922) — **FAILED to fetch**
+- Poem for a Lady — John Ashbery (1960) — **FAILED to fetch**
+- A Work of Artifice — Marge Piercy (1961) — **FAILED to fetch**
+- homage to my hips — Lucille Clifton (1980) — **FAILED to fetch**
+- Nikki-Rosa — Nikki Giovanni (1968) — **FAILED to fetch**
+- Women — Judy Grahn (1971) — **FAILED to fetch**
+- The Day Lady Died — Frank O'Hara (1959) — **FAILED to fetch**
+- Self-Portrait in a Convex Mirror — John Ashbery (1975) — **FAILED to fetch**
+- Diving into the Wreck — Adrienne Rich (1973) — **FAILED to fetch**
+- Anne Sexton — various (1960) — **FAILED to fetch**
